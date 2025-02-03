@@ -1,1 +1,26 @@
-# will-you-be-my-valentine
+# Will you be my valentine?
+
+Creator: https://i143.xyz/create
+
+Demo : https://.github.io/will-you-be-my-valentine/
+
+This is a fun project for valentines day to bring smile on face of your special person!!
+
+# How to start
+```
+npm install -g pnpm
+pnpm i
+pnpm run dev
+```
+
+# Preview
+
+![image description](demo.gif)
+
+
+# How to deploy it
+```
+pnpm run deploy
+```
+
+Made with ❤️ in Morocco!
