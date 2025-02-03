@@ -25,4 +25,4 @@ pnpm run dev
 pnpm run deploy
 ```
 
-Made with ❤️ in Morocco!
+Made with ❤️ by BuildWithZiyad!
