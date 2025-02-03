@@ -1,6 +1,7 @@
 # Will you be my valentine?
 
-Creator: https://i143.xyz/create
+Creator: ZiyadAtti
+Instagram : @BuildWithZiyad
 
 Demo : https://.github.io/will-you-be-my-valentine/
 
